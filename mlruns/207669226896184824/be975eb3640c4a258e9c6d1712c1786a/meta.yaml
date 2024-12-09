@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raksh/OneDrive/Desktop/UoA/Courses/Term3/MIS547/Assignment10/mlruns/207669226896184824/be975eb3640c4a258e9c6d1712c1786a/artifacts
+end_time: 1733709176268
+entry_point_name: ''
+experiment_id: '207669226896184824'
+lifecycle_stage: active
+run_id: be975eb3640c4a258e9c6d1712c1786a
+run_name: magnificent-elk-346
+run_uuid: be975eb3640c4a258e9c6d1712c1786a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733709170270
+status: 3
+tags: []
+user_id: raksh

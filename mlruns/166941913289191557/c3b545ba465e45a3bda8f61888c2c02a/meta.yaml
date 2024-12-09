@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/166941913289191557/c3b545ba465e45a3bda8f61888c2c02a/artifacts
+end_time: 1733705589288
+entry_point_name: ''
+experiment_id: '166941913289191557'
+lifecycle_stage: active
+run_id: c3b545ba465e45a3bda8f61888c2c02a
+run_name: righteous-duck-830
+run_uuid: c3b545ba465e45a3bda8f61888c2c02a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733705589208
+status: 3
+tags: []
+user_id: raksh

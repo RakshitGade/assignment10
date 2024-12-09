@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raksh/OneDrive/Desktop/UoA/Courses/Term3/MIS547/Assignment10/mlruns/207669226896184824/8a9da182de644974a0d62737bbf03fbc/artifacts
+end_time: 1733709277985
+entry_point_name: ''
+experiment_id: '207669226896184824'
+lifecycle_stage: active
+run_id: 8a9da182de644974a0d62737bbf03fbc
+run_name: puzzled-roo-127
+run_uuid: 8a9da182de644974a0d62737bbf03fbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733709272080
+status: 3
+tags: []
+user_id: raksh

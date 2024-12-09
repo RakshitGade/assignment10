@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raksh/OneDrive/Desktop/UoA/Courses/Term3/MIS547/Assignment10/mlruns/207669226896184824/017a7a01ac95422c9cb6f07c4b24a0b7/artifacts
+end_time: 1733709149705
+entry_point_name: ''
+experiment_id: '207669226896184824'
+lifecycle_stage: active
+run_id: 017a7a01ac95422c9cb6f07c4b24a0b7
+run_name: beautiful-sow-117
+run_uuid: 017a7a01ac95422c9cb6f07c4b24a0b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733709143871
+status: 3
+tags: []
+user_id: raksh

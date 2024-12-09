@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raksh/OneDrive/Desktop/UoA/Courses/Term3/MIS547/Assignment10/mlruns/207669226896184824/b13e3e15ccd14ab1b4bea1a727ab56b0/artifacts
+end_time: 1733709089392
+entry_point_name: ''
+experiment_id: '207669226896184824'
+lifecycle_stage: active
+run_id: b13e3e15ccd14ab1b4bea1a727ab56b0
+run_name: agreeable-frog-580
+run_uuid: b13e3e15ccd14ab1b4bea1a727ab56b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733709078565
+status: 3
+tags: []
+user_id: raksh

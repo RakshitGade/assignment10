@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733705850286
+current_stage: None
+description: null
+last_updated_timestamp: 1733705850286
+name: basic_lr_iris_model
+run_id: 00fe63415b534f5eacddf5562be5d48c
+run_link: null
+source: file:///C:/Users/raksh/OneDrive/Desktop/UoA/Courses/Term3/MIS547/Assignment10/mlruns/207669226896184824/00fe63415b534f5eacddf5562be5d48c/artifacts/iris_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/raksh/OneDrive/Desktop/UoA/Courses/Term3/MIS547/Assignment10/mlruns/207669226896184824/00fe63415b534f5eacddf5562be5d48c/artifacts/iris_model
+user_id: null
+version: 1
